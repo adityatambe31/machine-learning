@@ -106,7 +106,7 @@ Throughout the course, I strengthened my coding and AI engineering workflows:
 ## 🎓 Certificate
 This repo documents my completion of:
 
-**Artificial Intelligence A-Z 2025: Agentic AI, Generative AI & Reinforcement Learning (Udemy)**
+**[Artificial Intelligence A-Z 2025: Agentic AI, Generative AI & Reinforcement Learning (Udemy)](https://www.udemy.com/certificate/UC-2a47f950-a26a-4bd7-baa4-ca64e1a2fd93/)**
 
 ---
 
